@@ -6,7 +6,7 @@
 1. **Elements:** Includes fundamental building blocks of decision trees, including nodes, branches, and leaves.
 2. **Working:** Includes how decision trees make predictions by recursively splitting data based on specific features.
 3. **Application:** Examine how decision trees are used for both classification (predicting categories) and regression (predicting continuous values)
-4. **Evaluatio:** Analyze the advantages and disadvantages of decision trees, including their interpretability and potential for overfitting.
+4. **Evaluation:** Analyze the advantages and disadvantages of decision trees, including their interpretability and potential for overfitting.
 
 ### Pruning
 1. We discuss the concept of pruning to prevent overfitting by controlling the complexity of the tree. This section covers:
